@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/skJdUf3s)
 # Principles of Programming and Programming Languages
 # Mini-Project
 
@@ -7,20 +8,23 @@ See [instructions.md](instructions.md) for submission instructions.
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+  The main goal of this project is to investigate important Scala functional programming ideas, including currying, callbacks and collections, and abstract data types (ADTs). Currying is shown as a potent method for converting multi-argument functions into a series of single-argument functions, allowing for partial application and modularity. The project illustrates how currying streamlines function reuse and improves code readability with real-world applications, such as curried methods for processing lists. Operations like map, flatMap, and folds (foldLeft and foldRight) are highlighted in the examination of collections and callbacks, emphasizing their functions in effectively transforming and aggregating data.
+  
+  The project also explores the functional manipulation of structured data using ADTs like List and Set. Examples from the real world include flattening layered structures, employing folds and reductions for aggregation, mapping to extract insights, and screening personnel based on criteria. The project also uses parallel collections, showing how scalability can be achieved by distributing operations like salary summation across several CPU cores. All things considered, this project offers a thorough grasp of functional programming techniques, highlighting how abstraction and immutability can result in code that is safer, cleaner, and more effective.
+
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+Script.pdf has the script that I used in my video.
+Higher Order Functions.mp4 is the actual video. It is also linked in this readme as well as in the youtube playlist. 
+Slides.pdf contains the slides used in my video.
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+The complete youtube video is linked in this readme as well as the presentation and the script.
 
 ## Presentation
 
-TODO: Update the following links and remove this line.
+- YouTube: https://youtu.be/I5mPW4qKZYM
+- Script: [Script.pdf](https://github.com/user-attachments/files/18174726/Script.pdf)
+- Slides: [Static Type Checking (1).pdf](https://github.com/user-attachments/files/18174727/Static.Type.Checking.1.pdf)
 
-- YouTube: https://youtu.be/TODO.
-- Script: [script.md](script.md) or [script.pdf](script.pdf).
-- Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
