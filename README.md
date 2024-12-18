@@ -14,7 +14,9 @@ See [instructions.md](instructions.md) for submission instructions.
 
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+Script.pdf has the script that I used in my video.
+Higher Order Functions.mp4 is the actual video. It is also linked in this readme as well as in the youtube playlist. 
+Slides.pdf contains the slides used in my video.
 
 ## Building and Testing Instructions
 
